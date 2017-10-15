@@ -12,3 +12,7 @@ https://www.kickstarter.com/projects/pineconerobotics/xplotter-desktop-plotter-l
 
 Se it i action:
 https://youtu.be/7RKpVtHA4qw
+
+
+GCode for servo:
+M300S0 to M300S180
