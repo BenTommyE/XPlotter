@@ -16,3 +16,16 @@ https://youtu.be/7RKpVtHA4qw
 
 GCode for servo:
 M300S0 to M300S180
+
+
+Vacuum on off
+
+On:
+M10
+
+Off
+M11
+
+
+Laser NOT TESTED:
+M571S0.0 to M571 S1.0
